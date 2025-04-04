@@ -5,9 +5,12 @@
   "license": "MIT",
   "type": "module",
   "devDependencies": {
+    "@types/events": "^3.0.3",
+    "@types/node": "^22.14.0",
     "typescript": "^5.8.2"
   },
   "dependencies": {
+    "events": "^3.3.0",
     "rxjs": "^7.8.2"
   }
 }
